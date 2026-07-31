@@ -1,0 +1,4 @@
+interface:
+  display_name: "Process Norm"
+  short_description: "Spec-led coding, review, and debugging"
+  default_prompt: "Use $process-norm to implement, review, or debug this project against design.md and feature.md."
